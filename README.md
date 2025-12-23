@@ -112,4 +112,11 @@ $totalPage = ceil($totalData / $limit);
     <?php endif; ?>
 ```
 
+## Page 1
 ![Gambar 1](pagination.png)
+
+## Page 2
+![Gambar 2](page2.png)
+
+## Page 3
+![Gambar 3](page3.png)
